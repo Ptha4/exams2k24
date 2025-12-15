@@ -21,6 +21,8 @@ exams2k24/
 └── readme.md
 ```
 
-All papers are either scanned, or re-written in Markdown and LaTex and
-then converted to PDFs. A guide to submitting papers to this repository
+A guide to submitting papers to this repository
 can be found in the [contributing guide](contributing.md).
+
+## Relevant Links
+- [CLD2k24 Resources Repository](https://github.com/potatopudding-SSKS/CLD-2k24)
